@@ -1,2 +1,2 @@
-# age_converter
-Simple app that converts age from years to days
+# Age Converter App
+Simple Python app that converts age from years to days
